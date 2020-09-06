@@ -1,0 +1,24 @@
+{
+  "name": "cypress-basic",
+  "version": "1.0.0",
+  "description": "Automation software testing with cypress",
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.123:30000/FrontEnd/CyPressBasic"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.1.0",
+    "prettier": "^2.1.1"
+  }
+}
